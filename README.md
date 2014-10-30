@@ -18,7 +18,7 @@ Anypic requires Xcode 5 and iOS 7. The [tutorial](https://parse.com/tutorials/an
 3. Copy your new app's application id and client key into `AppDelegate.m`:
 
 ```objective-c
-[Parse setApplicationId:@"APPLICATION_ID" clientKey:@"CLIENT_KEY];"
+[Parse setApplicationId:@"APPLICATION_ID" clientKey:@"CLIENT_KEY"];
 ```
 
 #### Configuring Anypic's Facebook integration
